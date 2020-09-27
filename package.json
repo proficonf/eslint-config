@@ -1,0 +1,27 @@
+{
+  "name": "@proficonf/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint rules for proficonf projects",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"No linter needed\"",
+    "test": "echo \"No tests\"",
+    "build": "echo \"No build script\""
+  },
+  "peerDependencies": {
+    "eslint": ">= 7"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "homepage": "https://github.com/proficonf/eslint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proficonf/eslint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Proficonf",
+  "license": "UNLICENSED"
+}
