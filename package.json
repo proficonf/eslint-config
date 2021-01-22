@@ -1,6 +1,6 @@
 {
   "name": "@proficonf/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint rules for proficonf projects",
   "main": "index.js",
   "scripts": {
