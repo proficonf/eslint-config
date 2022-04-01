@@ -1,3 +1,4 @@
 include:
 - project: 'proficonf/ci-tools'
+  ref: multiple-npm-registries
   file: '/pipelines/package.yml'
