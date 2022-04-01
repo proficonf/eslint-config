@@ -20,8 +20,8 @@
     "url": "git+https://github.com/proficonf/eslint-config.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "author": "Proficonf",
-  "license": "UNLICENSED"
+  "license": "BSD-2-Clause"
 }
